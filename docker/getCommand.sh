@@ -14,7 +14,7 @@ sed -i '$d' /etc/locale.gen \
 /bin/bash -c "source /etc/default/locale"
 ln -sf  /usr/share/zoneinfo/Asia/Tokyo /etc/localtime
  
-HOME="/home/rstudio"
+HOME="/home/rstudio/kitematic/"
 chmod +x $HOME
 
 cd $HOME

@@ -22,3 +22,5 @@ plot(MYE1F, main="(f)")
 plot(Nikkei225, main="(g)")
 plot(Haibara, main="(h)")
 plot(HAKUSAN[, c(2,3,4)], main="(i)")
+
+dev.off()

@@ -1,6 +1,0 @@
-{
-  "load_extensions": {
-    "jupyter-black-master/jupyter-black": true,
-    "jupyter-isort-master/jupyter-isort": true
-  }
-}

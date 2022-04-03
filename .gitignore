@@ -54,3 +54,7 @@ rsconnect/
 .local/
 .jupyter/
 .bash_history
+
+# file extension
+*.pdf
+*.png

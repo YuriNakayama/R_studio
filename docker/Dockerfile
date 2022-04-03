@@ -11,3 +11,5 @@ ENV LC_ALL ja_JP.UTF-8
 ADD getCommand.sh /root/getCommand.sh
 RUN chmod +x /root/getCommand.sh
 RUN bash /root/getCommand.sh
+
+WORKDIR /home/rstudio/kitematic/
