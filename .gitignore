@@ -58,3 +58,6 @@ rsconnect/
 # file extension
 *.pdf
 *.png
+*.xlsx
+*.pptx
+*.csv

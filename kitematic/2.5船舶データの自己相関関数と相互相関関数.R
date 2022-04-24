@@ -5,6 +5,6 @@ library(TSSS)
 data(HAKUSAN)
 
 par(mar=c(2,3,2,1)+0.1)
-unicor(HAKUSAN[,2:4], lag=50)
+crscor(HAKUSAN[,2:4], lag=50)
 
 dev.off()
